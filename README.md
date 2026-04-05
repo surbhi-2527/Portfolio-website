@@ -1,5 +1,4 @@
 # Portfolio-website
-# 🌸 Surbhi's Portfolio
 
 Welcome to my personal portfolio website!
 This project showcases my work, skills, and projects as a Computer Science student specializing in Artificial Intelligence.
